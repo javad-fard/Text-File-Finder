@@ -1,3 +1,6 @@
-[If you want to run this tool,.pdf]
-(https://github.com/javad-fard/Text-File-Finder/files/8370102/If.you.want.to.run.this.tool.pdf)
+ if you want to run this tool, you can use python 2
+ 
+ >>>python2
+ 
+ 
 # Text-File-Finder
